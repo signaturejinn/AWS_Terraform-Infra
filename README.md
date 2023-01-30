@@ -24,23 +24,6 @@
 
 </br>
 
-## 📝 상세 내용 
-### 📌 Infra Architecture
-![aws terraform architecture](https://user-images.githubusercontent.com/117608997/215544478-e61a2989-b44c-4a55-9c3f-f56571a4c6d0.jpg)
-```
-  관리자는 클라우드 기반 IDE인 Cloud9을 사용해 Terraform으로 AWS Infra를 구축
-  고객은 Route53에 등록된 도메인을 통해 3-Tier 웹 서비스 이용
-```
-
-</br>
-
-## ⛓️ 구축 과정
-### 🔗 Notion Link
-#### - [AWS Terraform Project](https://glen-party-257.notion.site/AWS-Terraform-Project-77b1eb82a2d74ec9a0aee5130734d885)
-
-
-</br>
-
 ## 🙋🏻‍♂️ 담당 업무
 - Provider tf 파일 작성
     - Terraform 버전 및 공급자 구성
@@ -59,3 +42,23 @@
     - 보안그룹, 대상그룹, 리스너 정의 구성
 - AS tf 파일 작성 및 Auto Scaling 정책 구성
     - 시작구성, Autoscaling Group, 정책 구성
+
+</br>
+
+## 📝 상세 내용 
+### 📌 Infra Architecture
+![aws terraform architecture](https://user-images.githubusercontent.com/117608997/215544478-e61a2989-b44c-4a55-9c3f-f56571a4c6d0.jpg)
+```
+  관리자는 클라우드 기반 IDE인 Cloud9을 사용해 Terraform으로 AWS Infra를 구축
+  고객은 Route53에 등록된 도메인을 통해 3-Tier 웹 서비스 이용
+```
+
+</br>
+
+## ⛓️ 구축 과정
+### 🔗 Notion Link
+#### - [AWS Terraform Project](https://glen-party-257.notion.site/AWS-Terraform-Project-77b1eb82a2d74ec9a0aee5130734d885)
+
+
+</br>
+
