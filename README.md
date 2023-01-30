@@ -1,5 +1,7 @@
 # IaC를 활용한 AWS 인프라 구축
-  Terraform File을 작성하여 AWS 인프라를 구축 및 3-Tier 웹 서비스 운영
+###Terraform File을 작성하여 AWS 인프라를 구축 및 3-Tier 웹 서비스 운영
+
+</br>
 
 ## 🗓️ 진행 기간
 - 2022.10.17 ~ 2022.10.21
@@ -25,8 +27,8 @@
 ## 📝 상세 내용 
 ### Infra Architecture
 ![aws terraform architecture](https://user-images.githubusercontent.com/117608997/215544478-e61a2989-b44c-4a55-9c3f-f56571a4c6d0.jpg)
-> - 관리자는 클라우드 기반 IDE인 Cloud9을 사용해 Terraform으로 AWS Infra를 구축
-> - 고객은 Route53에 등록된 도메인을 통해 3-Tier 웹 서비스 이용
+  관리자는 클라우드 기반 IDE인 Cloud9을 사용해 Terraform으로 AWS Infra를 구축
+  고객은 Route53에 등록된 도메인을 통해 3-Tier 웹 서비스 이용
 
 </br>
 
