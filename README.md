@@ -36,7 +36,7 @@
 
 ## ⛓️ 구축 과정
 ### 🔗 Notion Link
-#### [AWS Terraform Project](https://glen-party-257.notion.site/AWS-Terraform-Project-77b1eb82a2d74ec9a0aee5130734d885)
+#### - [AWS Terraform Project](https://glen-party-257.notion.site/AWS-Terraform-Project-77b1eb82a2d74ec9a0aee5130734d885)
 
 
 </br>
