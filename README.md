@@ -1,5 +1,5 @@
 # IaC를 활용한 AWS 인프라 구축
-### Terraform File을 작성하여 AWS 인프라를 구축 및 3-Tier 웹 서비스 운영
+### Terraform File을 작성하여 AWS 2-Tier 인프라 구축 및 웹 서비스 운영
 
 </br>
 
