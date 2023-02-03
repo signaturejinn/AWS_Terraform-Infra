@@ -48,7 +48,7 @@
 
 ## 📝 상세 내용 
 ### 📌 Infra Architecture
-![aws terraform architecture](https://user-images.githubusercontent.com/117608997/215544478-e61a2989-b44c-4a55-9c3f-f56571a4c6d0.jpg)
+![image](https://user-images.githubusercontent.com/117608997/216547308-6566470a-cd55-45b0-909a-f8d71d6210c2.png)
 ```
   관리자는 클라우드 기반 IDE인 Cloud9을 사용해 Terraform으로 AWS Infra를 구축
   고객은 Route53에 등록된 도메인을 통해 3-Tier 웹 서비스 이용
